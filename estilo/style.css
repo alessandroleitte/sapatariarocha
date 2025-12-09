@@ -407,7 +407,9 @@ footer p a {
     height: 50%;
     margin: 10px auto;
     padding: 20px;
+    text-align: center;
   }
+
 
   .itens-servico {
     display: grid;
@@ -422,6 +424,7 @@ footer p a {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    justify-self: center;
   }
   .item-servico:hover {
     background-color: var(--destaque);

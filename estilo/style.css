@@ -215,8 +215,8 @@ header ul a {
   background-color: var(--destaque);
 }
 .item-servico:hover p {
-  transition: 0.8s;
-  color: var(--fundoclaro);
+  transition: color 1s ease; 
+  color: var(--fundoclaro) !important;
 }
 
 .item-servico img {

@@ -213,7 +213,6 @@ header ul a {
 }
 .item-servico:hover {
   background-color: var(--destaque);
-  color: var(--fundoclaro);
 }
 .item-servico:hover p {
   transition: 0.8s;
